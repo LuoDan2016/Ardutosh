@@ -19,7 +19,7 @@ The style is inspired by the classic Macintosh interface.
 D-pad controls mouse pointer
 A : toggle on screen keyboard
 B : mouse click
-
+太牛B了，，，不得不感叹啊....
 ## Build instructions
 To compile from source you will need the [Arduboy2 library](https://github.com/MLXXXp/Arduboy2) and the Arduino IDE
 
